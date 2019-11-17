@@ -1,2 +1,0 @@
-# QuickSort
-Quick Sort Program
